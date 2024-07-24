@@ -65,7 +65,7 @@ generator):
   here](https://github.com/tategakibunko/jingoo))
 - **Yocaml_yaml** to use Yaml to describe metadata
 - **Yocaml_omd** to use Markdown as a markup language
-- **Yocaml_unix** to run YOCaml on a Unix (or WSL-based) environment
+- **Yocaml_eio** to run YOCaml on a Unix (or WSL-based) environment
 
 These are the same dependencies as those used in the [simple
 blog](https://gitlab.com/funkywork/yocaml/-/tree/main/examples/simple-blog?ref_type=heads)

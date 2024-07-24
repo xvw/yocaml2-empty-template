@@ -1,4 +1,4 @@
 (executable
   (name yo)
   (public_name yo)
-  (libraries yocaml yocaml_jingoo yocaml_yaml yocaml_omd yocaml_unix))
+  (libraries yocaml yocaml_jingoo yocaml_yaml yocaml_omd yocaml_eio))

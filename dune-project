@@ -25,7 +25,7 @@
    yocaml_jingoo
    yocaml_yaml
    yocaml_omd
-   yocaml_unix
+   yocaml_eio
 
    ;; dev setup
    (ocamlformat :with-dev-setup)

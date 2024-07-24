@@ -3,5 +3,5 @@ pin-depends: [
   ["yocaml_jingoo.dev" "git+https://gitlab.com/funkywork/yocaml.git"]
   ["yocaml_yaml.dev" "git+https://gitlab.com/funkywork/yocaml.git"]
   ["yocaml_omd.dev" "git+https://gitlab.com/funkywork/yocaml.git"]
-  ["yocaml_unix.dev" "git+https://gitlab.com/funkywork/yocaml.git"]
+  ["yocaml_eio.dev" "git+https://gitlab.com/funkywork/yocaml.git"]
 ]
